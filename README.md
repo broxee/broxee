@@ -1,16 +1,23 @@
-## Hi there 👋
+# Broxee
 
-<!--
-**broxee/broxee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Broxee is a builder lab focused on learning by building and turning ideas into simple, real-world digital products.
 
-Here are some ideas to get you started:
+## What is Broxee?
+Broxee is not a single product. It is a growing ecosystem where experiments, tools, and projects are created, tested, and improved over time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Stage
+🚧 Early-stage exploration and experimentation.
+
+## Goals
+- Learn by building real projects
+- Create simple, useful tools
+- Grow into a product-driven tech brand
+
+## Roadmap (Flexible)
+- Brand foundation
+- Small experimental projects
+- Open-source utilities
+- Community-friendly products
+
+## Contact
+📧 contact.broxee@gmail.com
